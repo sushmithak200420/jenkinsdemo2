@@ -7,7 +7,7 @@ app = Flask(__name__)
 users = [
     {"id": 1, "name": "Sushmi", "email": "sushmi@gmail.com"},
     {"id": 2, "name": "Kannan", "email": "kannan@gmail.com"},
-    {"id": 3, "name": "Rohini", "email": "rohini@gmail.com"},
+    {"id": 3, "name": "Rani", "email": "rani@gmail.com"},
 ]
 
 
